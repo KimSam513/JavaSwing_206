@@ -10,6 +10,8 @@ public class HelloFlowLayout extends JFrame {
 	
 	HelloFlowLayout(){
 		
+		
+		//코드 수정중
 		JPanel p = new JPanel();
 		add(p);
 		
